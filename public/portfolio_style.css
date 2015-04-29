@@ -1,0 +1,81 @@
+ 
+ #option {
+	float: right;  
+	margin-top: 35px;
+  margin-right: 150px;
+
+}
+
+ li.main-options {
+ 	text-decoration: none;
+/*  list-style-type: none;
+*/  margin-left: 20px;
+  display: inline-block;
+
+}
+
+#network {
+  margin-top: 600px;
+  margin-right: 150px;
+  margin-bottom: 100px;
+  display: inline-block;
+  margin-left: 490px;
+}
+
+li.network-options {
+ 	text-decoration: none;
+/*  list-style-type: none;
+*/  margin-left: 20px;
+  display: inline-block;
+}
+
+html {
+	background: url(http://p1.pichost.me/i/16/1393874.png) no-repeat center center fixed; 
+    background-size: cover;/*
+background-image: url("");*/
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-family: fantasy;
+}
+
+span ul {
+  list-style: none;
+}
+
+li.job-title {
+  margin: 30px 0px 0px 37px;
+  float:left;
+  text-decoration: none;
+  color: white;
+  font-family: fantasy;
+}
+
+p.studio {
+  margin: 30px 0px 0px 10px;
+  /*float:left;*/
+  text-decoration: none;
+  color: white;
+  font-family: fantasy;
+}
+/*
+p.blockquote {
+    float: left;
+  margin-top: 100px;
+  quotes: "\201C""\201D""\2018""\2019";
+  display: inline;
+    text-decoration: none;
+  color: white;
+  font-family: fantasy;
+}
+
+p.blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}*/
